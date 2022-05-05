@@ -84,26 +84,45 @@ The best way to do your interview is with a lot of `why?`. Start your interview 
 ---
 ### Notes
 
-**Madhu** is a 
+**Madhu** is originally from India. 
+She has been living in Brussels for 5 years with her family. 
+Madhu likes learning new things. She is currently attending French lessons and participating in HackYourFuture program.
+Madhu is also talanted jewelry maker. She is passionate about painting, pencil sketch, crochet.
 
 #### Background: 
+Madhu has Master degree in Business Adninistration.
+In India she has worked in Consultancy for 10 years.
+She speaks English and French.
+
+
 
 #### IT experience: 
-
+Madhu had no experience in Web development.
+However she managed IT team when working in consultancy.
 
 #### Homepage:
+Madhu wants her passion to become her job.
+She needs a homepage to present and sell her Art works.
 
   
 #### Future: 
-
+One day she wants to open her online shop and become an entrepreneur.
+She is also considering further development in IT sphere.
 
 #### Personality: 
+Curious about learning new things
+Creative
+Artistic
 
-#### Impact he wants to cause into visitors: 
+#### Impact he wants to cause into visitors:
+She wants people to discover her works and buy them.
+
 
 #### Language: 
+English
 
 #### Audience: 
+All people interested in art Jewelry lovers
 
 ### Summary
 
